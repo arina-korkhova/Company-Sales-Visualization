@@ -1,2 +1,2 @@
 # Company-Sales-Visualization
-Various vizualisations of company sales data
+Various visualizations of company sales data
